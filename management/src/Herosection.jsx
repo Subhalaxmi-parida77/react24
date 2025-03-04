@@ -15,7 +15,7 @@ const Herosection = () => {
            <img src={T1}alt=""  />          
            <div className='absolute right-72 top-96 animate-bounce'>
            <img src={Doctor}alt=""  /> 
-           <div className='absolute right-72 top-96 animate-bounce'>
+           <div className='absolute right-25 top-12 animate-bounce'>
            <img src={Womanbrush}alt=""  />  
            </div>
            </div>
